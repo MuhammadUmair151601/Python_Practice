@@ -19,4 +19,12 @@
 # [:8] will print from 0 to 7 string:
 # [3:] will print from 3 to end:
 
-# 
+# ****************string methods:
+# len() shows the length of the string:
+# name = "lasdjflksfj"
+# print(len(name))
+# print(name.endswith("fj"))
+# print(name.count("f"))
+# print(name.capitalize())
+# print(name.find("sdj"))
+# print(name.replace("djfl","sldkf"))
