@@ -1,0 +1,5 @@
+print(l1.reverse())
+# print(l1.insert(4,5))
+# print(l1.append(90))
+# print(l1.remove(34))
+# print(l1.pop(4))
